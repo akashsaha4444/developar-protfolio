@@ -1,0 +1,42 @@
+body {
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-image: ;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.ornge-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.helf-witdh {
+    width: 50%;
+    padding: 5%;
+}
+
+.helf-witdh img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: coral;
+    color: white;
+    font-weight: 400;
+    border: radius 5px;
+    padding: 10px 40px
+}
+
+.top-bannar {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    ma
+}
