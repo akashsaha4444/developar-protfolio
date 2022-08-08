@@ -13,7 +13,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-continar {
     display: flex;
     margin-bottom: 80px;
 
@@ -37,8 +37,37 @@ section {
     padding: 10px 40px
 }
 
+.dream big {
+    background-image: url(images/dream-bg.png);
+
+}
+
+.akash-saha {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 .top-bannar {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    ma
+
+}
+
+.web-shadow {
+    width: 40%;
+    margin-left: 5%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 7px solid red
+}
+
+#hello {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
